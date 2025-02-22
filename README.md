@@ -7,5 +7,5 @@ Server: PHP, SQL
 View the Site / Live
 Lapcomme.ddns.net
 
-Authors
+Author
 @Amatya Tandale
